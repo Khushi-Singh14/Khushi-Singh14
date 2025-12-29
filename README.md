@@ -1,5 +1,5 @@
-#Hi, I’m Khushi Singh 👋  
-##Third-Year B.Tech Student | Data Science & AI/ML Enthusiast  
+# Hi, I’m Khushi Singh 👋  
+## Third-Year B.Tech Student | Data Science & AI/ML Enthusiast  
 
 I am a third-year engineering student with a strong interest in Data Science, Machine Learning, and problem-solving through code. I enjoy working on projects that involve data preprocessing, analysis, and building practical solutions using Python and web technologies.  
 Currently, I am strengthening my foundations in Data Structures & Algorithms while building data-driven and ML-based projects.
