@@ -49,6 +49,6 @@ Git | GitHub | VS Code | Jupyter Notebook
 📫**Let’s Connect**
 
 **GitHub**: https://github.com/Khushi-Singh14  
-**LinkedIn**: https://www.linkedin.com/in/khushi-singh-48420328a/ 
+**LinkedIn**: https://www.linkedin.com/in/khushi-singh-48420328a/                                                        
 **Email**: singhkhushi9143@gmail.com
 
