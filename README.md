@@ -23,7 +23,7 @@ Git | GitHub | VS Code | Jupyter Notebook
 
 🌿 **Flora Saviors – Official NGO Website**  
 **Tech:** HTML, CSS, JavaScript  
-**Links:** https://florasaviors.org/ | https://github.com/Khushi-Singh14/Flora-Saviors-Website  
+**Link:** https://florasaviors.org/ | https://github.com/Khushi-Singh14/Flora-Saviors-Website  
 **Impact:** Developed and deployed the official NGO website with a **responsive and accessible UI**, improving **user engagement** and **content clarity** through optimized layouts and call-to-action sections. Collaborated with the team to implement iterative updates based on feedback.
 
 💊 **Pharmacy Management System**  
